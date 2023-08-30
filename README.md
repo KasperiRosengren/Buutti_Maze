@@ -11,6 +11,8 @@ python maze_solver.py -f Instructions/maze-task-second.txt -d Mazes -l debug --r
 --result-terminal, prints the results in real time to the terminal, default is false<br>
 --result-file RESULT_FILENAME, prints the results in real time to the provided file (result.txt)<br>
 <br>
+Only tested on Windows 10 with python 3.9.5<br>
+<br>
 Used A* as search algorithm to find optimal path, some resources I used to learn about it:<br>
 <a href=\"https://brilliant.org/wiki/a-star-search/\">Brilliant - A star search</a>: https://brilliant.org/wiki/a-star-search/<br>
 <a href=\"http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html#the-a-star-algorithm/\">Stanford.edu - A star comparison</a>: http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html#the-a-star-algorithm/<br>
