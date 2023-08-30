@@ -12,6 +12,6 @@ python maze_solver.py -f Instructions/maze-task-second.txt -d Mazes -l debug --r
 --result-file RESULT_FILENAME, prints the results in real time to the provided file (result.txt)<br>
 <br>
 Used A* as search algorithm to find optimal path, some resources I used to learn about it:<br>
-<a href=\"https://brilliant.org/wiki/a-star-search/\">Brilliant - A star search</a><br>
-<a href=\"http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html#the-a-star-algorithm/\">Stanford.edu - A star comparison</a><br>
-<a href=\"https://www.youtube.com/watch?v=ySN5Wnu88nE&t=409s&ab_channel=Computerphile\">Youtube - ComputerPhile - A* (A Star) Search Algorithm</a>
+<a href=\"https://brilliant.org/wiki/a-star-search/\">Brilliant - A star search</a>: https://brilliant.org/wiki/a-star-search/<br>
+<a href=\"http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html#the-a-star-algorithm/\">Stanford.edu - A star comparison</a>: http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html#the-a-star-algorithm/<br>
+<a href=\"https://www.youtube.com/watch?v=ySN5Wnu88nE&t=409s&ab_channel=Computerphile\">Youtube - ComputerPhile - A* (A Star) Search Algorithm</a>: https://www.youtube.com/watch?v=ySN5Wnu88nE&t=409s&ab_channel=Computerphile\
