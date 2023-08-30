@@ -1,0 +1,29 @@
+Maze
+
+Pentti got stuck in a maze.
+
+Implement an algorithm to find a route through a maze given in a .txt file, or
+tell if there is no possible route available.
+
+In the map file a ‘#’ represents a block, ‘ ‘ (whitespace) represents movable space
+and ‘E’ means an exit. ‘^’ is the starting position. Going outside the maze
+area is not allowed.
+
+Pentti can move in 4 directions, and each move has an equal cost. Each map
+should be tried with the same algorithm with 20, 150 and 200 maximum
+moves.
+
+The solution with the correct route must be printed to something visible, either to a file, on
+the command line, or graphically. The optimal solution is not required, but bonus points for
+providing it! The program should accept an input file given by the user.
+
+Evaluation criteria:
+● Design
+● Structure
+● Use of language features
+● Clarity of implementation
+● Error checking
+● Comments
+● Testability
+● Documentation
+● Usability
